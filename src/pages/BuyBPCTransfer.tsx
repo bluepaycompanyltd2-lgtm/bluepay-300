@@ -68,7 +68,7 @@ const BuyBPCTransfer = () => {
         <div className="mb-4">
           <p className="text-gray-500 text-sm">Amount</p>
           <div className="flex justify-between items-center">
-            <p className="text-2xl font-bold">NGN 6,500</p>
+            <p className="text-2xl font-bold">NGN 10,000</p>
             <Button 
               variant="default" 
               className="bg-blue-600 hover:bg-blue-700 flex items-center gap-2"
